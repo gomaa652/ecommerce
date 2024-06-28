@@ -1,6 +1,6 @@
 {
-    "name": "ecommerce",
-    "short_name": "ecommerce",
+    "name": "yalla_client",
+    "short_name": "yalla_client",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

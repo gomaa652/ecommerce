@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "ecommerce" "\0"
+            VALUE "CompanyName", "com.yalla" "\0"
+            VALUE "FileDescription", "yalla_client" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "ecommerce" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "ecommerce.exe" "\0"
-            VALUE "ProductName", "ecommerce" "\0"
+            VALUE "InternalName", "yalla_client" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.yalla. All rights reserved." "\0"
+            VALUE "OriginalFilename", "yalla_client.exe" "\0"
+            VALUE "ProductName", "yalla_client" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

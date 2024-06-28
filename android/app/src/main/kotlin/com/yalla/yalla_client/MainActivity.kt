@@ -1,4 +1,4 @@
-package com.example.ecommerce
+package com.yalla.yalla_client
 
 import io.flutter.embedding.android.FlutterActivity
 

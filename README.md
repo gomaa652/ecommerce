@@ -1,4 +1,4 @@
-# ecommerce
+# yalla_client
 
 A new Flutter project.
 
